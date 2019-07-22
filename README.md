@@ -1,2 +1,2 @@
-# redux
-a simple redux app
+# splash screen
+a simple splash screen app
